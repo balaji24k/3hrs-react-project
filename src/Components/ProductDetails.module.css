@@ -1,0 +1,19 @@
+.label{
+    background-color: hwb(294 1% 69% / 0.98);
+    
+    }
+    .color{
+        color: red;
+    font-size:xx-large;
+    }
+    
+    .label button {
+        border-color: rgb(0, 255, 0);
+        border-radius: 19px;
+        color: white;
+        flex: auto;
+        text-align: center;
+    }
+    .label FormLabel{
+        color:white
+    }
